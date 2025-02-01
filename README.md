@@ -74,6 +74,12 @@
   <a href="https://github.com/digi-gen/Code-Solutions">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=digi-gen&card_width=500&theme=codeSTACKr&repo=Code-Solutions&description_lines_count=3" />
   </a>
+    <a href="https://github.com/mr-mahmood/Cats-and-Dogs-Classification-using-CNN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-mahmood&card_width=500&theme=codeSTACKr&repo=Cats-and-Dogs-Classification-using-CNN&description_lines_count=3" />
+  </a>
+    <a href="https://github.com/mr-mahmood/word-suggestion-RNN-model">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-mahmood&card_width=500&theme=codeSTACKr&repo=word-suggestion-RNN-model&description_lines_count=3" />
+  </a>
   
 </details>
 <br/>
